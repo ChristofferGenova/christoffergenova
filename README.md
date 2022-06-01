@@ -3,8 +3,6 @@
   🕵️‍♂️ Desenvolvedor Full-Stack
   </br>
   👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
-  </br>
-  🎮 Lives nas horas vagas
 </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=christoffergenova&label=Profile%20views&color=0e75b6&style=plastic" alt="christofergenova" /> </p>
