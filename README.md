@@ -1,13 +1,13 @@
-<h1 align="center">Olá, eu sou o Christoffer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Christoffer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  🕵️‍♂️ Desenvolvedor Full-Stack
+  🕵️‍♂️ Full Stack Developer
   </br>
-  👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+  👨‍🎓 Graduated in Systems Analysis and Development
 </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=christoffergenova&label=Profile%20views&color=0e75b6&style=plastic" alt="christofergenova" /> </p>
 
-### 👉 Minha Stack
+### 👉 My Stacks
 
 <p align="center"> 
   &emsp;
@@ -56,7 +56,7 @@
 
 </br>
 
-## 🙋‍♀️ Outras redes
+## 🙋‍♀️ Social Network
 <p align="center">
 	<a href="mailto:christoffergenova1@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/christoffergenova"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
