@@ -56,21 +56,6 @@
 
 </br>
 
-## 📊 Github Stats
-
-<br/>
- <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Christoffer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=christoffergenova&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  &nbsp;
-	 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christoffergenova&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
-</p>
-<br/>
-  <a href="https://github.com/christoffergenova"><img alt="Gráfico de Atividade" src="https://activity-graph.herokuapp.com/graph?username=christoffergenova&custom_title=Christoffer%20Genova%20&theme=react-dark" /></a>
-<br/>
-
-<br/>
-
 ## 🙋‍♀️ Outras redes
 <p align="center">
 	<a href="mailto:christoffergenova1@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
